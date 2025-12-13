@@ -1664,3 +1664,15 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/* Custom styles for Cursos section */
+.banner {
+	background: rgba(255, 248, 230, 0.03);
+	padding: 1rem;
+	border-left: 4px solid #e44;
+	margin: 1.25rem 0;
+}
+.banner strong { display:block; margin-bottom:0.35rem; font-weight:700; text-transform:uppercase; }
+.schedule ol { margin-left:1.2rem; }
+.schedule li { margin-bottom:0.35rem; }
+.courses h3, .other-services h3, .values h3 { margin-top:1.25rem; }
